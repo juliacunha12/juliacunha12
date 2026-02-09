@@ -14,7 +14,7 @@ O **ResolveAI** é uma plataforma full-stack que conecta prestadores de serviço
 
 ## 📊 Domínio Técnico: Estruturas de Dados (UFG)
 
-Além do desenvolvimento web, possuo domínio em algoritmos de baixo nível e gestão de memória. No meu repositório de **[Algoritmos e Estrutura de Dados](./algoritmos-e-estrutura-de-dados)**, exploro:
+Além do desenvolvimento web, possuo domínio em algoritmos de baixo nível e gestão de memória. No meu repositório de **[Algoritmos e Estrutura de Dados](https://github.com/juliacunha12/algoritmos-e-estrutura-de-dados)**, exploro:
 
 * **Filas Dinâmicas & Pilhas:** Gestão de memória manual em C.
 * **Análise de Dados:** Implementação de Janela Deslizante (Sliding Window) para alta performance.
