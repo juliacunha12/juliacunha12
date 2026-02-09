@@ -10,7 +10,7 @@ O **ResolveAI** é uma plataforma full-stack que conecta prestadores de serviço
 
 * **Frontend:** Next.js 15 (App Router), Tailwind CSS v4, TypeScript.
 * **Backend:** Supabase (Auth, Database, Storage, RLS).
-* **🔗 [Acesse o Live Demo aqui](#)** ---
+* **🔗 https://resolve-ai-kohl.vercel.app/ ** ---
 
 ## 📊 Domínio Técnico: Estruturas de Dados (UFG)
 
